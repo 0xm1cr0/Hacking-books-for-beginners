@@ -1,4 +1,4 @@
 # For-GAMCON-
-this is for sliky 
+this is for GAMCON MEMBERS
 
-#from your freind ALAGIE aka cob74
+#from ALAGIE aka m0nst3r
