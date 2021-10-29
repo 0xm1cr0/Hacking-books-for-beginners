@@ -1,4 +1,5 @@
-# For-GAMCON-
+# GAMCON-classes
+
 this is for GAMCON MEMBERS
 
-#from ALAGIE aka m0nst3r
+## by m1cr0
